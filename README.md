@@ -7,7 +7,7 @@ The tests in this example are run against the EriBank application for Android de
 
 ## Steps
 1 - login with username and password
-2 - User makes payment with "<phone>" "<name>" "<amount>" "<client>"
+2 - User makes payment with phone, name, amount, client
 3 - User should see balance by "<amount>
 4 - User will logout
 
